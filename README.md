@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Repo : 
+- JavaScript : JS_basic(항해, 인프런 등 자바스크립트 강의 내용 정리)
+- 항해99 : 
+1. foodlog_mini_project : 맛집 포스팅 사이트(사전 토이프로젝트) 
+2. lecture_prac : 웹개발종합반 강의 정리 및 연습
+   
 <!--
 **vjiji/vjiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
