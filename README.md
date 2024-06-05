@@ -12,7 +12,7 @@
 - Jira를 사용한 프로젝트 관리 경험이 있으며, Notion, Figma 로 협업할 수 있습니다.
 
 ### 💬 저는 요즘 이런 것을 공부하고 있습니다 : 
-- [바로가기](https://github.com/vjiji/nextjs-prac) : Next.js 공식문서 튜토리얼
+- [바로가기](https://github.com/vjiji/nextjs-blog) : Next.js로 개발하는 포스팅 프로젝트
 
 ### 💬 저의 코드가 궁금하시다면 :
 1. 항해99 프로젝트
